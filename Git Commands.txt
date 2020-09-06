@@ -1,0 +1,12 @@
+===============first time===============
+1. git init
+2. git add .
+3. git commit -m 'commit message'
+4.  git remote set-url origin https://github.com/abhakiran1234/trainee.git
+5. git push -u origin master
+=============2nd time==========
+1.made changes(create a file or delete or modify file)
+2. open project root directory in git bash
+3. git add .
+4. git commit -m 'commit message'
+5. git push
